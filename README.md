@@ -12,6 +12,7 @@ Explore data characteristics, visualize insights, and evaluate the performance o
 Dataset:
 
 The dataset used contains millions of electronic product ratings from users, providing a rich source for building and evaluating recommendation models.
+http://jmcauley.ucsd.edu/data/amazon/
 
 Explore Insights:
 
