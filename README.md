@@ -4,10 +4,11 @@ Overview
 This GitHub repository hosts a Recommender System for Electronics, a project focused on building and comparing two recommendation systems: a Popularity Recommender and a Collaborative Filtering model. This system aims to provide users with personalized electronic product recommendations based on their preferences and behaviors.
 
 Contents
-Jupyter Notebook:
+Google collab
 
-The primary script is presented in Jupyter Notebook format, guiding users through each step of the recommendation system implementation.
+The primary script is presented in Google collab format, guiding users through each step of the recommendation system implementation.
 Explore data characteristics, visualize insights, and evaluate the performance of different recommendation models.
+
 Dataset:
 
 The dataset used contains millions of electronic product ratings from users, providing a rich source for building and evaluating recommendation models.
